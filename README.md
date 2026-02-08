@@ -9,7 +9,7 @@ A fully functional To-Do web application built with Django, Bootstrap 5, and SQL
 - ✅ Task status tracking (Pending, In Progress, Completed)
 - ✅ Due dates and deadlines
 - ✅ Search and filter tasks
-- ✅ Responsive design with Bootstrap 5
+- ✅ Responsive design with Bootstrap 5(Android)
 - ✅ Beautiful dashboard with statistics
 - ✅ Overdue task highlighting
 
