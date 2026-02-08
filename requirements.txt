@@ -1,8 +1,6 @@
-cat > requirements.txt << 'EOF'
 Django>=4.2,<5.0
 sqlparse>=0.4.3
 asgiref>=3.6.0
-EOF
 gunicorn
 dj-database-url
 psycopg2-binary
