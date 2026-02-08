@@ -1,4 +1,4 @@
-# Django To-Do Application
+# To-Do Application
 
 A fully functional To-Do web application built with Django, Bootstrap 5, and SQLite.
 
