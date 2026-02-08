@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Django To-Do Application
 
 A fully functional To-Do web application built with Django, Bootstrap 5, and SQLite.
@@ -13,12 +12,6 @@ A fully functional To-Do web application built with Django, Bootstrap 5, and SQL
 - ✅ Responsive design with Bootstrap 5
 - ✅ Beautiful dashboard with statistics
 - ✅ Overdue task highlighting
-
-## Screenshots
-
-![Home Page](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
-![Login Page](screenshots/login.png)
 
 ## Installation
 
